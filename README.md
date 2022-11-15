@@ -17,7 +17,7 @@ Below builtins have also been included in our simple shell
 read, signal, malloc, free, getcwd, chdir, access, execve, wait, write, exit
 
 ## Environment
-Language: C
-Operatin System: Ubuntu 20.04
-Compiler: gcc 
-Style: Betty style
+* Language: C
+* Operatin System: Ubuntu 20.04
+* Compiler: gcc 
+* Style: Betty style
