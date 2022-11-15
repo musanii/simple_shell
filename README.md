@@ -14,3 +14,10 @@ Below builtins have also been included in our simple shell
 * **exit** closes the shell (Usage: *exit [status]*)
 * **setenv** creates or modifies an environmental variable (Usage: *setenv name value*)
 ## System calls / Functions used 
+read, signal, malloc, free, getcwd, chdir, access, execve, wait, write, exit
+
+## Environment
+Language: C
+Operatin System: Ubuntu 20.04
+Compiler: gcc 
+Style: Betty style
