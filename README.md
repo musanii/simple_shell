@@ -21,3 +21,8 @@ read, signal, malloc, free, getcwd, chdir, access, execve, wait, write, exit
 * Operatin System: Ubuntu 20.04
 * Compiler: gcc 
 * Style: Betty style
+
+## Authors
+* Kevin Musanii
+* Frank Basheke
+
